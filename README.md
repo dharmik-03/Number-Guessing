@@ -13,7 +13,7 @@ https://jocular-sunshine-591857.netlify.app/
 <img width="1022" height="630" alt="image" src="https://github.com/user-attachments/assets/07569f29-33c8-4eea-99e4-eeb1644f62f0" />
 
 
-> Replace the image URL above with a screenshot of your actual project if you have one.
+
 
 ## 🚀 Features
 
@@ -118,7 +118,7 @@ The formula generates a random integer between the minimum and maximum values.
 
 ## 📸 Feature Images
 
-You can add screenshots for the main features of your project:
+
 
 ### 1. Game Interface
 
@@ -153,7 +153,6 @@ You can add screenshots for the main features of your project:
 <img width="803" height="546" alt="image" src="https://github.com/user-attachments/assets/e8982352-6471-4593-9df3-fa7537e82085" />
 
 
-> **Note:** The images above are placeholder images. For your practical submission, replace them with screenshots of your actual application.
 
 ## 🎯 Purpose of the Project
 
