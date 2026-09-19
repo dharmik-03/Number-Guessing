@@ -127,10 +127,10 @@ The formula generates a random integer between the minimum and maximum values.
 
 ### 2. Higher / Lower Feedback
 
-**Higher**
+## Higher
 <img width="890" height="634" alt="image" src="https://github.com/user-attachments/assets/42a934e0-e518-4a10-b55e-d95d59b25fbc" />
 
-**Lower**
+## Lower
 
 <img width="844" height="583" alt="image" src="https://github.com/user-attachments/assets/5cd7afd4-c891-4f9d-bf08-ade488ab2740" />
 
