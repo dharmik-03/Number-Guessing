@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number Guessing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="box">
+
+        <div class="align">
+            <button id="reset">Again</button>
+            <p>Beetween 1 to 100</p>
+        </div>
+
+        <br>
+        <h1 style="color: white;text-align: center;">Guess Number</h1>
+        <br>
+
+
+
+        <div class="align2" style="display: flex;justify-content: space-between;">
+            <div class="box1" style="width: 50%;">
+                <input type="number" placeholder="Enter number" id="userNum">
+                <br>
+                <button id="userBTN">Check</button>
+                <br>
+            </div>
+            <br>
+
+            <div class="box2" style="width: 50%;">
+                <p style="color: white;font-size: 20px;"> Attemp <b id="attemp">0</b></p>
+                <h1 id="feedBack"></h1>
+
+
+                <p id="score"></p>
+
+            </div>
+        </div>
+
+
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+
+}
+
+.box {
+    background-color: rgb(14, 202, 14);
+    height: 20rem;
+    width: 500px;
+    
+    margin-top: 100px;
+    padding: 40px;
+}
+
+#userNum {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+#userBTN{
+    margin: 10px;
+    width: 90px;
+    height: 30px;
+    color: black;
+  
+}
+
+#feedBack{
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+
+}
+#reset {
+    margin: 10px;
+    width: 90px;
+    height: 30px;
+    background-color: white;
+    border: none;
+    font-size: 17px;
+
+
+
+}
+
+.align{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
